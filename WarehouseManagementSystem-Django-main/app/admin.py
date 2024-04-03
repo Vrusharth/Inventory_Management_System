@@ -1,3 +1,4 @@
+import streamlit as st
 from django.contrib import admin
 from app.models import *
 
